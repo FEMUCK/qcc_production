@@ -1,0 +1,78 @@
+{
+    "menu_admin": [
+        {
+            "url": "javascript:void(0)",
+            "name": "Admin",
+            "i18n": "Admin",
+            "class": "collapsible-header waves-effect waves-cyan",
+            "slug": "Admin",
+            "icon": "person_outline",
+            "tag": "2",
+            "tagcustom": "badge pill orange float-right mr-10",
+            "submenu": [
+                {
+                    "url": "page-qcc-system-setting",
+                    "name": "System Setting",
+                    "i18n": "System Setting",
+                    "slug": "page-qcc-system-setting"
+                },
+                {
+                    "url": "page-qcc-users-list",
+                    "name": "QCC Users list",
+                    "i18n": "QCC Users list",
+                    "slug": "page-qcc-users-list"
+                }
+            ]
+        },
+        {
+            "url": "page-home",
+            "name": "Home Page",
+            "i18n": "Home",
+            "class": "waves-effect waves-cyan",
+            "icon": "home",
+            "slug": "home"
+        },
+        {
+            "url": "page-qcc-dashboard",
+            "name": "QCC Dashboard",
+            "i18n": "QCC Dashboard",
+            "class": "waves-effect waves-cyan",
+            "icon": "show_chart",
+            "slug": "page-qcc-dashboard"
+        },
+        {
+            "url": "page-qcc-datatable",
+            "name": "QCC Data Table",
+            "i18n": "QCC Data Table",
+            "class": "waves-effect waves-cyan",
+            "icon": "grid_on",
+            "slug": "page-qcc-datatable"
+        }
+    ],
+    "menu": [
+        {
+            "url": "page-home",
+            "name": "Home Page",
+            "i18n": "Home",
+            "class": "waves-effect waves-cyan",
+            "icon": "home",
+            "slug": "home"
+        },
+        {
+            "url": "page-qcc-dashboard",
+            "name": "QCC Dashboard",
+            "i18n": "QCC Dashboard",
+            "class": "waves-effect waves-cyan",
+            "icon": "show_chart",
+            "slug": "page-qcc-dashboard"
+        },
+        {
+            "url": "page-qcc-datatable",
+            "name": "QCC Data Table",
+            "i18n": "QCC Data Table",
+            "class": "waves-effect waves-cyan",
+            "icon": "grid_on",
+            "slug": "page-qcc-datatable"
+        }
+    ]
+}

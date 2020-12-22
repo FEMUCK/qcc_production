@@ -1,0 +1,22 @@
+{
+    "listItems": [
+        {
+            "url": "page-home",
+            "name": "Home Page",
+            "icon": "home",
+            "category": "Pages"
+        },
+        {
+            "url": "page-qcc-register",
+            "name": "QCC Register",
+            "icon": "add_box",
+            "category": "Pages"
+        },
+        {
+            "url": "page-qcc-datatable",
+            "name": "QCC Data Table",
+            "icon": "grid_on",
+            "category": "Pages"
+        }
+    ]
+}
